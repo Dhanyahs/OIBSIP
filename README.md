@@ -1,4 +1,4 @@
-Hello Everone,
+Hello Everyone,
 
 Completed my Level 1 Tasks under Oasis Infobyte Web Development Internship.
 
